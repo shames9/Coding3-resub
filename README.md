@@ -1,4 +1,3 @@
-![image](https://github.com/shames9/Coding3-resub/assets/119880118/a3f0e536-1c36-4408-8951-31d1e3bd7183)# Coding3-resubmission
 ## Optimising deep learning model parameters and training strategies on the effect of image style migration
 
 ![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/0001.png).
