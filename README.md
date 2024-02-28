@@ -9,3 +9,5 @@ The aim of this project is to explore the effect on the image style migration ef
 **Video Presentation Link**
 
 ## Experimental procedure
+Select the appropriate content image and style image
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/1.png).
