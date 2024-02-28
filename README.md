@@ -76,3 +76,9 @@ If only modifying the number of training times of VGG19 model and keeping the fr
 ## Conclusions
 
 In this study, two adjustments were made to the VGG19 model: one is to modify the framework parameters of the model, including the number of layers, the number of channels, etc.; and the other is to adjust the number of training iterations of the model. The experimental results show that simply adjusting the framework parameters of the model does not significantly affect the effect of image style migration, however, increasing the number of training iterations can significantly improve the migration results, indicating that the number of training sessions has a more significant effect on the migration effect. This finding is important for further optimising image style migration algorithms and deep learning model training strategies.
+
+## Reference
+
+https://www.kaggle.com/code/imoore/generate-paintings-by-image-style-transfer
+
+https://www.kaggle.com/datasets/balraj98/monet2photo
