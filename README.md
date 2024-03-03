@@ -74,8 +74,8 @@ If only modifying the frame parameters of the VGG19 model and keeping the number
 If only modifying the number of training times of VGG19 model and keeping the frame parameters unchanged, the more times of training, the more obvious effect on the migration of image style.
 
 ## Conclusions
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/1111.png).
 ![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/2222.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/1111.png).
 In this study, two adjustments were made to the VGG19 model: one is to modify the framework parameters of the model, including the number of layers, the number of channels, etc.; and the other is to adjust the number of training iterations of the model. The experimental results show that simply adjusting the framework parameters of the model does not significantly affect the effect of image style migration, however, increasing the number of training iterations can significantly improve the migration results, indicating that the number of training sessions has a more significant effect on the migration effect. This finding is important for further optimising image style migration algorithms and deep learning model training strategies.
 
 ## Reference
