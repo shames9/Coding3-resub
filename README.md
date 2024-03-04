@@ -1,6 +1,6 @@
 ## Optimising deep learning model parameters and training strategies on the effect of image style migration
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/0001.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/0001.png)
 
 ## Project Introduction
 The aim of this project is to explore the effect on the image style migration effect by adjusting the frame parameters and training times of the VGG19 model, and by using a different style of CONTENT IMAGE and the same style of STYLE IMAGE as another set of control groups with the same frame parameter adjustments and training times adjustments. I design a series of experiments using different structural parameters and training times of the VGG19 model for the image style migration task, and compare the quality and effectiveness of the generated images between different combinations of experiments. The experimental results are analysed to provide insights into methods and techniques for optimising deep learning model parameters and training strategies.
@@ -11,29 +11,29 @@ The aim of this project is to explore the effect on the image style migration ef
 ## Experimental procedure
 Select the appropriate content image and style image
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/1.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/1.png)
 
 Framework parameters of the VGG19 model
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/001.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/001.png)
 
 Number of times the VGG19 model was trained
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/01.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/01.png)
 
 Results of training completion
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/0001.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/0001.png)
 
 ### Adjusting only the frame parameters of the VGG19 model
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/02.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/02.png)
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/002.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/002.png)
 
 Results of training completion
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/0002.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/0002.png)
 
 #### Comparative conclusions
 Training was performed by adjusting only the frame parameters of the VGG19 model and the results were compared. The results show that the adjustments to the frame parameters of the VGG19 model had a small effect on the training results, with no significant significant change in the training results from the pre-adjustment period. This suggests that the VGG19 model's ability to fit the data with this modification was not significantly improved.
@@ -43,11 +43,11 @@ By analysing this result, the following are several possible scenarios. Firstly,
 
 ### Adjust only the number of times the VGG19 model is trained
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/03.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/03.png)
 
 Results of training completion
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/3.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/3.png)
 
 #### Comparative conclusions
 By modifying the number of training times for the VGG19 model, I observed the relationship between the extent to which the style features of the content image are reflected in the style image and the number of training times. The results show that as the number of training times increases, the features of the style image reflected in the content image become more and more obvious.
@@ -60,19 +60,19 @@ In order to ensure the rigour of the research on image style migration and to pr
 
 Select the appropriate content image and style image
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/11.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/11.png)
 
 Results of training completion
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/111.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/111.png)
 
 ### Adjusting only the frame parameters of the VGG19 model (Test1)
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/112.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/112.png)
 
 ### Adjust only the number of times the VGG19 model is trained (Test1)
 
-![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/113.png).
+![Final-project](https://github.com/shames9/Coding3-resub/blob/main/Experimental%20data%20and%20screenshots%20of%20results/113.png)
 
 #### Comparative conclusions (Test1)
 When only modifying the frame parameters of the VGG19 model while keeping the number of training sessions constant, there was no significant effect on the image style migration results. This suggests that the results of image style migration were not significantly improved simply by adjusting the structural parameters of the model. This may be because this modification did not introduce enough variation to allow the model to better capture the stylistic features of the images.
